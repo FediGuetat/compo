@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/compo.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/compo.git/static/js/main.415a36ff.chunk.js",
+    "main.js.map": "/compo.git/static/js/main.415a36ff.chunk.js.map",
+    "runtime-main.js": "/compo.git/static/js/runtime-main.b74381fb.js",
+    "runtime-main.js.map": "/compo.git/static/js/runtime-main.b74381fb.js.map",
+    "static/js/2.a24f1789.chunk.js": "/compo.git/static/js/2.a24f1789.chunk.js",
+    "static/js/2.a24f1789.chunk.js.map": "/compo.git/static/js/2.a24f1789.chunk.js.map",
+    "index.html": "/compo.git/index.html",
+    "precache-manifest.00b0b19e5113a84c52a266c6dcd5b12b.js": "/compo.git/precache-manifest.00b0b19e5113a84c52a266c6dcd5b12b.js",
+    "service-worker.js": "/compo.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/compo.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a24f1789.chunk.js.LICENSE.txt": "/compo.git/static/js/2.a24f1789.chunk.js.LICENSE.txt",
+    "static/media/op.jpg": "/compo.git/static/media/op.b80f2bd0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b74381fb.js",
+    "static/js/2.a24f1789.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.415a36ff.chunk.js"
+  ]
+}
